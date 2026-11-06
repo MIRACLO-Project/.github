@@ -1,20 +1,26 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIRACLO-Project/MIRACLO/main/assets/header_light.png">
-  <img alt="MIRACLO" src="https://raw.githubusercontent.com/MIRACLO-Project/MIRACLO/main/assets/header_dark.png">
-</picture>
+<div align="center">
 
-### Pure Android 17, made to feel like yours.
+# MIRACLO
 
-**MIRACLO** is an Android 17 ROM built on Qualcomm's own Android source, with **Mira Studio**: one
-place to choose how your phone looks, moves and behaves. Quick Settings in ColorOS, iOS and One UI
-styles, status bar icon styles, Liquid Glass, Material 3 Expressive motion and much more.
+**A premium Android 17 ROM built from Qualcomm's CLO source.**
 
-**Start here: [MIRACLO](https://github.com/MIRACLO-Project/MIRACLO)** (features, screenshots, source, access)
+Mira design · Mira Studio · aurora kernel · GApps and Vanilla
 
-| | |
-|---|---|
-| Device | POCO F5 (marble) |
-| Android | 17, branch `aurora` |
-| Build | [manifest](https://github.com/MIRACLO-Project/manifest) |
-| News | [@MIRACLO_Project](https://t.me/MIRACLO_Project) |
-| Help | [@MIRACLO_Support](https://t.me/MIRACLO_Support) |
+[Overview and features](https://github.com/MIRACLO-Project/manifest#readme) · [Changelog](https://github.com/MIRACLO-Project/manifest/blob/aurora/CHANGELOG.md)
+
+</div>
+
+| Device | Codename | Latest |
+| --- | --- | --- |
+| POCO F5 / Redmi Note 12 Turbo | `marble` | 1.0 Aurora (first build, in development) |
+
+### Source
+
+| Repository | What it holds |
+| --- | --- |
+| [manifest](https://github.com/MIRACLO-Project/manifest) | How to sync and build, overview and changelog |
+| [android_vendor_miraclo](https://github.com/MIRACLO-Project/android_vendor_miraclo) | Mira apps, overlays, fonts, sounds, build and release tools, aurora kernel scripts |
+| [android_device_xiaomi_marble](https://github.com/MIRACLO-Project/android_device_xiaomi_marble) | Device configuration for marble |
+| [android_frameworks_base](https://github.com/MIRACLO-Project/android_frameworks_base) | System UI and framework |
+| [android_packages_apps_Settings](https://github.com/MIRACLO-Project/android_packages_apps_Settings) | Settings and Mira Studio |
+| [android_packages_apps_Launcher3](https://github.com/MIRACLO-Project/android_packages_apps_Launcher3) | Launcher |
