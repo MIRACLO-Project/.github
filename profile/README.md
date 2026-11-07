@@ -6,7 +6,7 @@
 
 Mira design · Mira Studio · aurora kernel · GApps and Vanilla
 
-[Overview and features](https://github.com/MIRACLO-Project/manifest#readme) · [Changelog](https://github.com/MIRACLO-Project/manifest/blob/aurora/CHANGELOG.md)
+[Overview and features](https://github.com/MIRACLO-Project/manifest#readme) · [Changelog](https://github.com/MIRACLO-Project/manifest/blob/aurora/CHANGELOG.md) · [Build for your device](https://github.com/MIRACLO-Project/manifest/blob/aurora/DEVICES.md)
 
 </div>
 
